@@ -1,2 +1,7 @@
-# core-backend
-This is the backend repository.
+# This repository is backend from Core Plataform
+
+## Stacks
+- NodeJS
+- Typescript
+- PostgreSQL
+- Prisma
